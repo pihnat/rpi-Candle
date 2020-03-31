@@ -20,7 +20,9 @@ Downloads:
 ----------
 Only for GRBL v1.1 firmware
 
-* Raspi4: [candle_1.1.8.zip](https://github.com/pihnat/Candle/v1.1/Candle_1.1.8_for_raspi4.zip)
+* Raspi4:   [candle_1.1.8.zip]   (https://github.com/pihnat/Candle/releases/download/v1.1/Candle_1.1.8_for_raspi4.zip)
+
 
 "Candle" main window:
+
 ![screenshot](/screenshots/Screenshot_Candle_on_Raspi4.jpg)
