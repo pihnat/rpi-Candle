@@ -10,8 +10,7 @@ Supported functions:
 
 System requirements for running "Candle":
 -------------------
-* Raspberry Pi 4
-It will run on a raspi3 too but quite sluggishly. Raspi4 preferred.
+* Candle will run on a raspi3 too but quite sluggishly. Raspi4 preferred.
 
 Build requirements:
 ------------------
