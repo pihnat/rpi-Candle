@@ -1,12 +1,10 @@
 Candle for Raspberry Pi 4
 -----------
-GRBL controller application with G-Code visualizer written in Qt.
-
-Supported functions:
-* Controlling GRBL-based cnc-machine via console commands, buttons on form, numpad.
-* Monitoring cnc-machine state.
-* Loading, editing, saving and sending of G-code files to cnc-machine.
-* Visualizing G-code files.
+GRBL controller application with G-Code visualizer written in Qt and able
+to run on a Raspberry Pi.
+For the Windows and Linux versions and full support please go to the original site
+https://github.com/Denvi/Candle
+Also use that site for any issues with the software and feature requests.
 
 System requirements for running "Candle":
 -------------------
