@@ -3,7 +3,9 @@ Candle for Raspberry Pi 4
 GRBL controller application with G-Code visualizer written in Qt and able
 to run on a Raspberry Pi.
 For the Windows and Linux versions and full support please go to the original site
+
 https://github.com/Denvi/Candle
+
 Also use that site for any issues with the software and feature requests.
 
 System requirements for running "Candle":
