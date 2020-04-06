@@ -13,8 +13,10 @@ Note: I setup this repository for 2 reasons:
 2. since there's interest in running Candle on a raspi I wanted to add the info to Denvi's repository but not knowing what or how to do it I thought creating a temporary repository to play with was a safer solution. Hopefully the wiki found here and the Candle.zip file will eventually end up on the Denvi/Candle site.
 I apologise in advance for any strange formatting or information appearing on this site since it is my test site.
 
-The information here is based on issue #77 on Denvi's site:
+The information here is based on issue #77 on Denvi's site
+
 https://github.com/Denvi/Candle/issues/77
+
 and many thanks to everyone who contributed to the discussion there. All I did was to put the information in one place.
  
 
