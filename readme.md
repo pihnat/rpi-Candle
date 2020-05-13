@@ -32,7 +32,7 @@ Downloads:
 ----------
 Only for GRBL v1.1 firmware
 
-* [Candle_1.1.8.zip](https://github.com/pihnat/Candle/releases/download/v1.1/Candle_1.1.8_for_raspi4.zip)
+* [Candle_1.1.8.zip](https://github.com/pihnat/rpi-Candle/releases/download/v1.1/Candle_1.1.8_for_raspi4.zip)
 
 
 "Candle" main window:
