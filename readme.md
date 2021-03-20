@@ -15,15 +15,15 @@ Many thanks to everyone who contributed to the discussion there. All I did was t
 
 System requirements for running Candle:
 -------------------
-Candle runs well on a raspi4. It will also run on a raspi3 but quite sluggishly, a raspi4 is definitely preferred.
+Candle runs well on a raspi4. It will also run on a raspi3 but quite sluggishly, a raspi4 is definitely preferred. This version of Candle communicates with an Arduino Uno running GRBL v1.1 firmware.
 
 Downloads:
 ----------
-This version of Candle is for use with GRBL v1.1 firmware on an Arduino Uno. If you want to just run Candle then download the following .zip file
+If you want to just use Candle on the raspi4 then download the following .zip file
 
 * [Candle_1.1.8.zip](https://github.com/pihnat/rpi-Candle/releases/download/v1.1/Candle_1.1.8_for_raspi4.zip)
 
-Click on the 'Wiki' link at the top of this page for full instructions on how to install and run it. Note that you do NOT need to install Qt5. Qt5 is only required if you are going to modify and re-compile the source code. This is also explained in detail in the same Wiki. 
+Click on the 'Wiki' link at the top of this page for full instructions on how to install and run it. Note that you do NOT need to install Qt5. However if you want to modify and re-compile the source code or run a different version of Candle then you will need to install Qt5. This is also explained in detail in the same Wiki. 
 
 
 Candle's main window:
