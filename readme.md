@@ -15,7 +15,7 @@ Many thanks to everyone who contributed to the discussion there. All I did was t
 
 System requirements for running Candle:
 -------------------
-* Candle runs well on a raspi4. It will also run on a raspi3 but quite sluggishly, a raspi4 is definitely preferred.
+Candle runs well on a raspi4. It will also run on a raspi3 but quite sluggishly, a raspi4 is definitely preferred.
 
 Downloads:
 ----------
